@@ -36,8 +36,8 @@ app.post("/movetomainpage",function (req,res) {
         console.log('body:', body); // Print the HTML for the Google homepage.
 
     });
-    
 
+    res.render('Result');
 
 });
 
