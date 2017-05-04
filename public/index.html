@@ -29,10 +29,25 @@
       <div class="row center">
         <h5 class="header col s12 light">Get Every Information about your movie</h5>
       </div>
-      <div class="row center">
+      <div class="row">
+        <form class="col s12" action="/movetomainpage" method="post">
+          <div class="row">
 
-        <input type="search" id="mySearch" placeholder="Enter Movie's name">
-        <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>
+            <div class="input-field col s6">
+              <input id="movie" name="Movie" type="text" class="validate">
+              <label for="movie">Enter Movie's Name</label>
+            </div>
+
+            <div class="input-field col s6">
+              <input id="year" name="Year" type="text" class="validate">
+              <label for="year">Release year</label>
+            </div>
+          </div>
+          <div class="btn-large waves-effect waves-light orange" align="center">
+            <input type="submit" value="Submit">
+          </div>
+
+        </form>
       </div>
       <br><br>
 
@@ -53,7 +68,7 @@
     </div>
   </div>
 
-  <footer class="page-footer light-blue darken-4">
+  <footer class="page-footer light-blue darken-3">
     <div class="footer-copyright">
       <div class="container">
            made by Harsh Bhardwaj
