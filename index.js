@@ -21,11 +21,11 @@ app.set('view engine', 'ejs');
 app.post("/movetomainpage",function (req,res) {
 
 
-    var Movie=req.body.Movie;
-    var year=req.body.Year;
-    console.log("Movie :"+ Movie);
-    console.log("year :"+ year);
-    var url="http://omdbapi.com/?";
+    var Movie = req.body.Movie;
+    var year = req.body.Year;
+    console.log("Movie :" + Movie);
+    console.log("year :" + year);
+    var url = "http://omdbapi.com/?";
 
     url = url + "t=" + Movie + "&" + "y=" + year;
 
@@ -35,18 +35,12 @@ app.post("/movetomainpage",function (req,res) {
         console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
         console.log(body); // Print the HTML for the Google homepage.
 
-
-    });
-
-
-
-
-
-
-
-
+        var JSONObject = JSON.parse(body);
+        console.log(JSONObject);
+        var c = JSONObject["Title"];
+        
+    })
     res.render('Result');
-
 });
 
 var port=process.env.PORT || 3000;
