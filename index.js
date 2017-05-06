@@ -39,13 +39,13 @@ app.post("/movetomainpage",function (req,res) {
         console.log(JSONObject);
         var c = JSONObject["Title"];
        //data sending to result page dynamically
-        var sendData={"Title":JSONObject["Title"],"Release data":JSONObject["Released"],"Runtime":JSONObject["Runtime"],"Category":JSONObject["Genre"],
-            "Director":JSONObject["Director"],"Writer":JSONObject["Writer"],"Star Cast":JSONObject["Actors"],"story":JSONObject["plot"]
+        var sendData={"Title":JSONObject["Title"],"Releasedata":JSONObject["Released"],"Runtime":JSONObject["Runtime"],"Category":JSONObject["Genre"],
+            "Director":JSONObject["Director"],"Writer":JSONObject["Writer"],"StarCast":JSONObject["Actors"],"story":JSONObject["plot"]
         ,"Langauge":JSONObject["Language"],"country":JSONObject["Country"],"Poster":JSONObject["Poster"],"Director":JSONObject["Director"]
-            ,"imdb":JSONObject["imdbRating"],"Director":JSONObject["Director"],"Production":JSONObject["Production"],"Website":JSONObject["Website"]}
-
+            ,"imdb":JSONObject["imdbRating"],"Director":JSONObject["Director"],"Production":JSONObject["Production"],"Website":JSONObject["Website"],"Awards":JSONObject["Awards"]}
 
         res.render('Result',sendData);
+
     })
 
 });
