@@ -38,9 +38,16 @@ app.post("/movetomainpage",function (req,res) {
         var JSONObject = JSON.parse(body);
         console.log(JSONObject);
         var c = JSONObject["Title"];
-        
+       //data sending to result page dynamically
+        var sendData={"Title":JSONObject["Title"],"Release data":JSONObject["Released"],"Runtime":JSONObject["Runtime"],"Category":JSONObject["Genre"],
+            "Director":JSONObject["Director"],"Writer":JSONObject["Writer"],"Star Cast":JSONObject["Actors"],"story":JSONObject["plot"]
+        ,"Langauge":JSONObject["Language"],"country":JSONObject["Country"],"Poster":JSONObject["Poster"],"Director":JSONObject["Director"]
+            ,"imdb":JSONObject["imdbRating"],"Director":JSONObject["Director"],"Production":JSONObject["Production"],"Website":JSONObject["Website"]}
+
+
+        res.render('Result',sendData);
     })
-    res.render('Result');
+
 });
 
 var port=process.env.PORT || 3000;
