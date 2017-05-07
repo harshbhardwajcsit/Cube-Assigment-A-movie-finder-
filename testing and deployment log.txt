@@ -1,0 +1,1947 @@
+
+//testing log
+Movie :ishq
+year :
+http://omdbapi.com/?t=ishq&y=
+error: null
+statusCode: 200
+{"Title":"Ishq","Year":"1997","Rated":"N/A","Released":"28 Nov 1997","Runtime":"161 min","Genre":"Action, Comedy, Drama","Director":"Indra Kumar","Writer":"Rajeev Kaul (screenplay), Rajeev Kaul (story), Tanveer Khan (dialogue), Naushir Khatau (story advisor), Praful Parekh (screenplay), Praful Parekh (story)","Actors":"Aamir Khan, Ajay Devgn, Juhi Chawla, Kajol","Plot":"Harbans Rai and Ranjit Rai are two wealthy businessmen who absolutely *loathe* poverty and poor people . As fate would have it , Harbans Rai's daughter Madhu falls for a poor mechanic Raja ...","Language":"Hindi","Country":"India","Awards":"1 nomination.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4MTE5NjMwN15BMl5BanBnXkFtZTcwMDgwMDEyMQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.9/10"}],"Metascore":"N/A","imdbRating":"6.9","imdbVotes":"7,707","imdbID":"tt0133024","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Ishq',
+  Year: '1997',
+  Rated: 'N/A',
+  Released: '28 Nov 1997',
+  Runtime: '161 min',
+  Genre: 'Action, Comedy, Drama',
+  Director: 'Indra Kumar',
+  Writer: 'Rajeev Kaul (screenplay), Rajeev Kaul (story), Tanveer Khan (dialogue), Naushir Khatau (story advisor), Praful Parekh (screenplay), Praful Parekh (story)',
+  Actors: 'Aamir Khan, Ajay Devgn, Juhi Chawla, Kajol',
+  Plot: 'Harbans Rai and Ranjit Rai are two wealthy businessmen who absolutely *loathe* poverty and poor people . As fate would have it , Harbans Rai\'s daughter Madhu falls for a poor mechanic Raja ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: '1 nomination.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4MTE5NjMwN15BMl5BanBnXkFtZTcwMDgwMDEyMQ@@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '6.9/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '6.9',
+  imdbVotes: '7,707',
+  imdbID: 'tt0133024',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+
+Movie :ishq ke parinde
+year :
+http://omdbapi.com/?t=ishq ke parinde&y=
+error: null
+statusCode: 200
+{"Response":"False","Error":"Movie not found!"}
+{ Response: 'False', Error: 'Movie not found!' }
+undefined
+
+Movie :titanic
+year :
+http://omdbapi.com/?t=titanic&y=
+error: null
+statusCode: 200
+{"Title":"Titanic","Year":"1997","Rated":"PG-13","Released":"19 Dec 1997","Runtime":"194 min","Genre":"Drama, Romance","Director":"James Cameron","Writer":"James Cameron","Actors":"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates","Plot":"A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.","Language":"English, Swedish","Country":"USA","Awards":"Won 11 Oscars. Another 110 wins & 74 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.7/10"},{"Source":"Rotten Tomatoes","Value":"88%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"7.7","imdbVotes":"838,917","imdbID":"tt0120338","Type":"movie","DVD":"10 Sep 2012","BoxOffice":"N/A","Production":"Paramount Pictures","Website":"http://www.titanicmovie.com/","Response":"True"}
+{ Title: 'Titanic',
+  Year: '1997',
+  Rated: 'PG-13',
+  Released: '19 Dec 1997',
+  Runtime: '194 min',
+  Genre: 'Drama, Romance',
+  Director: 'James Cameron',
+  Writer: 'James Cameron',
+  Actors: 'Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates',
+  Plot: 'A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.',
+  Language: 'English, Swedish',
+  Country: 'USA',
+  Awards: 'Won 11 Oscars. Another 110 wins & 74 nominations.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg',
+  Ratings:
+   [ { Source: 'Internet Movie Database', Value: '7.7/10' },
+     { Source: 'Rotten Tomatoes', Value: '88%' },
+     { Source: 'Metacritic', Value: '74/100' } ],
+  Metascore: '74',
+  imdbRating: '7.7',
+  imdbVotes: '838,917',
+  imdbID: 'tt0120338',
+  Type: 'movie',
+  DVD: '10 Sep 2012',
+  BoxOffice: 'N/A',
+  Production: 'Paramount Pictures',
+  Website: 'http://www.titanicmovie.com/',
+  Response: 'True' }
+
+  Movie :stuart little
+  year :
+  http://omdbapi.com/?t=stuart little&y=
+  error: null
+  statusCode: 200
+  {"Title":"Stuart Little","Year":"1999","Rated":"PG","Released":"17 Dec 1999","Runtime":"84 min","Genre":"Adventure, Comedy, Family","Director":"Rob Minkoff","Writer":"E.B. White (book), M. Night Shyamalan (screenplay), Greg Brooker (screenplay)","Actors":"Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki","Plot":"The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.","Language":"English, Dutch","Country":"Germany, USA","Awards":"Nominated for 1 Oscar. Another 7 wins & 12 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMDJlZWZiODItMGE3NC00Yzg3LWFhYTYtZTI2YWNlNjExMDE4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"5.9/10"},{"Source":"Rotten Tomatoes","Value":"66%"},{"Source":"Metacritic","Value":"61/100"}],"Metascore":"61","imdbRating":"5.9","imdbVotes":"99,506","imdbID":"tt0164912","Type":"movie","DVD":"18 Apr 2000","BoxOffice":"N/A","Production":"Columbia Pictures","Website":"http://www.spe.sony.com/movies/stuartlittle/splash.html","Response":"True"}
+  { Title: 'Stuart Little',
+    Year: '1999',
+    Rated: 'PG',
+    Released: '17 Dec 1999',
+    Runtime: '84 min',
+    Genre: 'Adventure, Comedy, Family',
+    Director: 'Rob Minkoff',
+    Writer: 'E.B. White (book), M. Night Shyamalan (screenplay), Greg Brooker (screenplay)',
+    Actors: 'Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki',
+    Plot: 'The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.',
+    Language: 'English, Dutch',
+    Country: 'Germany, USA',
+    Awards: 'Nominated for 1 Oscar. Another 7 wins & 12 nominations.',
+    Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMDJlZWZiODItMGE3NC00Yzg3LWFhYTYtZTI2YWNlNjExMDE4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg',
+    Ratings:
+     [ { Source: 'Internet Movie Database', Value: '5.9/10' },
+       { Source: 'Rotten Tomatoes', Value: '66%' },
+       { Source: 'Metacritic', Value: '61/100' } ],
+    Metascore: '61',
+    imdbRating: '5.9',
+    imdbVotes: '99,506',
+    imdbID: 'tt0164912',
+    Type: 'movie',
+    DVD: '18 Apr 2000',
+    BoxOffice: 'N/A',
+    Production: 'Columbia Pictures',
+    Website: 'http://www.spe.sony.com/movies/stuartlittle/splash.html',
+    Response: 'True' }
+  Stuart Little
+  Movie :devta
+  year :
+  http://omdbapi.com/?t=devta&y=
+  error: null
+  statusCode: 200
+  {"Title":"Devta","Year":"1998","Rated":"N/A","Released":"01 Jan 1998","Runtime":"N/A","Genre":"Action","Director":"Jagdish A. Sharma","Writer":"N/A","Actors":"Arun Bakshi, Mithun Chakraborty, Mushtaq Khan, Kiran Kumar","Plot":"N/A","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"3.9/10"}],"Metascore":"N/A","imdbRating":"3.9","imdbVotes":"11","imdbID":"tt2008493","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+  { Title: 'Devta',
+    Year: '1998',
+    Rated: 'N/A',
+    Released: '01 Jan 1998',
+    Runtime: 'N/A',
+    Genre: 'Action',
+    Director: 'Jagdish A. Sharma',
+    Writer: 'N/A',
+    Actors: 'Arun Bakshi, Mithun Chakraborty, Mushtaq Khan, Kiran Kumar',
+    Plot: 'N/A',
+    Language: 'Hindi',
+    Country: 'India',
+    Awards: 'N/A',
+    Poster: 'N/A',
+    Ratings: [ { Source: 'Internet Movie Database', Value: '3.9/10' } ],
+    Metascore: 'N/A',
+    imdbRating: '3.9',
+    imdbVotes: '11',
+    imdbID: 'tt2008493',
+    Type: 'movie',
+    DVD: 'N/A',
+    BoxOffice: 'N/A',
+    Production: 'N/A',
+    Website: 'N/A',
+    Response: 'True' }
+
+Movie :chamatkar
+year :
+http://omdbapi.com/?t=chamatkar&y=
+error: null
+statusCode: 200
+{"Title":"Chamatkar","Year":"1992","Rated":"PG","Released":"08 Jul 1992","Runtime":"171 min","Genre":"Comedy, Drama, Fantasy","Director":"Rajiv Mehra","Writer":"Shaukat Baig (screenplay), Shaukat Baig (story), Lilliput (dialogue), Rajiv Mehra (screenplay)","Actors":"Naseeruddin Shah, Shah Rukh Khan, Urmila Matondkar, Malvika Tiwari","Plot":"Sunder Srivastava (Shah Rukh Khan) is a young graduate whose main ambition in life is to fulfil his father's dream of starting a school on his half-acre property in his village, though he ...","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTlkYTI1ZWItZmFmMy00MjA0LWEwZDItYTAwYzI3MGVhNjFlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.7/10"}],"Metascore":"N/A","imdbRating":"6.7","imdbVotes":"4,560","imdbID":"tt0126234","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Nirvana Films","Website":"N/A","Response":"True"}
+{ Title: 'Chamatkar',
+  Year: '1992',
+  Rated: 'PG',
+  Released: '08 Jul 1992',
+  Runtime: '171 min',
+  Genre: 'Comedy, Drama, Fantasy',
+  Director: 'Rajiv Mehra',
+  Writer: 'Shaukat Baig (screenplay), Shaukat Baig (story), Lilliput (dialogue), Rajiv Mehra (screenplay)',
+  Actors: 'Naseeruddin Shah, Shah Rukh Khan, Urmila Matondkar, Malvika Tiwari',
+  Plot: 'Sunder Srivastava (Shah Rukh Khan) is a young graduate whose main ambition in life is to fulfil his father\'s dream of starting a school on his half-acre property in his village, though he ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BOTlkYTI1ZWItZmFmMy00MjA0LWEwZDItYTAwYzI3MGVhNjFlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '6.7/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '6.7',
+  imdbVotes: '4,560',
+  imdbID: 'tt0126234',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'Nirvana Films',
+  Website: 'N/A',
+  Response: 'True' }
+  Movie :deewana
+  year :
+  http://omdbapi.com/?t=deewana&y=
+  error: null
+  statusCode: 200
+  {"Title":"Deewana","Year":"1992","Rated":"N/A","Released":"25 Jun 1992","Runtime":"185 min","Genre":"Action, Comedy, Crime","Director":"Raj Kanwar","Writer":"Sagar Sarhadi (dialogue), Sagar Sarhadi (screenplay)","Actors":"Rishi Kapoor, Divya Bharti, Shah Rukh Khan, Alok Nath","Plot":"Kajal is a beautiful and talented young woman who loves songs and dances and attends various shows. At one of the shows she attended she gets to meet Ravi, a popular singer and both are ...","Language":"Hindi","Country":"India","Awards":"3 wins.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDUyMzk2Ml5BMl5BanBnXkFtZTgwNTUwMDAxNzE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"}],"Metascore":"N/A","imdbRating":"7.0","imdbVotes":"4,517","imdbID":"tt0126871","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+  { Title: 'Deewana',
+    Year: '1992',
+    Rated: 'N/A',
+    Released: '25 Jun 1992',
+    Runtime: '185 min',
+    Genre: 'Action, Comedy, Crime',
+    Director: 'Raj Kanwar',
+    Writer: 'Sagar Sarhadi (dialogue), Sagar Sarhadi (screenplay)',
+    Actors: 'Rishi Kapoor, Divya Bharti, Shah Rukh Khan, Alok Nath',
+    Plot: 'Kajal is a beautiful and talented young woman who loves songs and dances and attends various shows. At one of the shows she attended she gets to meet Ravi, a popular singer and both are ...',
+    Language: 'Hindi',
+    Country: 'India',
+    Awards: '3 wins.',
+    Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDUyMzk2Ml5BMl5BanBnXkFtZTgwNTUwMDAxNzE@._V1_SX300.jpg',
+    Ratings: [ { Source: 'Internet Movie Database', Value: '7.0/10' } ],
+    Metascore: 'N/A',
+    imdbRating: '7.0',
+    imdbVotes: '4,517',
+    imdbID: 'tt0126871',
+    Type: 'movie',
+    DVD: 'N/A',
+    BoxOffice: 'N/A',
+    Production: 'N/A',
+    Website: 'N/A',
+    Response: 'True' }
+
+Movie :deewana
+year :
+http://omdbapi.com/?t=deewana&y=
+error: null
+statusCode: 200
+{"Title":"Deewana","Year":"1992","Rated":"N/A","Released":"25 Jun 1992","Runtime":"185 min","Genre":"Action, Comedy, Crime","Director":"Raj Kanwar","Writer":"Sagar Sarhadi (dialogue), Sagar Sarhadi (screenplay)","Actors":"Rishi Kapoor, Divya Bharti, Shah Rukh Khan, Alok Nath","Plot":"Kajal is a beautiful and talented young woman who loves songs and dances and attends various shows. At one of the shows she attended she gets to meet Ravi, a popular singer and both are ...","Language":"Hindi","Country":"India","Awards":"3 wins.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDUyMzk2Ml5BMl5BanBnXkFtZTgwNTUwMDAxNzE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"}],"Metascore":"N/A","imdbRating":"7.0","imdbVotes":"4,517","imdbID":"tt0126871","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Deewana',
+  Year: '1992',
+  Rated: 'N/A',
+  Released: '25 Jun 1992',
+  Runtime: '185 min',
+  Genre: 'Action, Comedy, Crime',
+  Director: 'Raj Kanwar',
+  Writer: 'Sagar Sarhadi (dialogue), Sagar Sarhadi (screenplay)',
+  Actors: 'Rishi Kapoor, Divya Bharti, Shah Rukh Khan, Alok Nath',
+  Plot: 'Kajal is a beautiful and talented young woman who loves songs and dances and attends various shows. At one of the shows she attended she gets to meet Ravi, a popular singer and both are ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: '3 wins.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDUyMzk2Ml5BMl5BanBnXkFtZTgwNTUwMDAxNzE@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '7.0/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '7.0',
+  imdbVotes: '4,517',
+  imdbID: 'tt0126871',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+
+Movie :devta
+year :
+http://omdbapi.com/?t=devta&y=
+error: null
+statusCode: 200
+{"Title":"Devta","Year":"1998","Rated":"N/A","Released":"01 Jan 1998","Runtime":"N/A","Genre":"Action","Director":"Jagdish A. Sharma","Writer":"N/A","Actors":"Arun Bakshi, Mithun Chakraborty, Mushtaq Khan, Kiran Kumar","Plot":"N/A","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"3.9/10"}],"Metascore":"N/A","imdbRating":"3.9","imdbVotes":"11","imdbID":"tt2008493","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Devta',
+  Year: '1998',
+  Rated: 'N/A',
+  Released: '01 Jan 1998',
+  Runtime: 'N/A',
+  Genre: 'Action',
+  Director: 'Jagdish A. Sharma',
+  Writer: 'N/A',
+  Actors: 'Arun Bakshi, Mithun Chakraborty, Mushtaq Khan, Kiran Kumar',
+  Plot: 'N/A',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '3.9/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '3.9',
+  imdbVotes: '11',
+  imdbID: 'tt2008493',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :deewana
+year :
+http://omdbapi.com/?t=deewana&y=
+error: null
+statusCode: 200
+{"Title":"Deewana","Year":"1992","Rated":"N/A","Released":"25 Jun 1992","Runtime":"185 min","Genre":"Action, Comedy, Crime","Director":"Raj Kanwar","Writer":"Sagar Sarhadi (dialogue), Sagar Sarhadi (screenplay)","Actors":"Rishi Kapoor, Divya Bharti, Shah Rukh Khan, Alok Nath","Plot":"Kajal is a beautiful and talented young woman who loves songs and dances and attends various shows. At one of the shows she attended she gets to meet Ravi, a popular singer and both are ...","Language":"Hindi","Country":"India","Awards":"3 wins.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDUyMzk2Ml5BMl5BanBnXkFtZTgwNTUwMDAxNzE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"}],"Metascore":"N/A","imdbRating":"7.0","imdbVotes":"4,517","imdbID":"tt0126871","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Deewana',
+  Year: '1992',
+  Rated: 'N/A',
+  Released: '25 Jun 1992',
+  Runtime: '185 min',
+  Genre: 'Action, Comedy, Crime',
+  Director: 'Raj Kanwar',
+  Writer: 'Sagar Sarhadi (dialogue), Sagar Sarhadi (screenplay)',
+  Actors: 'Rishi Kapoor, Divya Bharti, Shah Rukh Khan, Alok Nath',
+  Plot: 'Kajal is a beautiful and talented young woman who loves songs and dances and attends various shows. At one of the shows she attended she gets to meet Ravi, a popular singer and both are ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: '3 wins.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDUyMzk2Ml5BMl5BanBnXkFtZTgwNTUwMDAxNzE@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '7.0/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '7.0',
+  imdbVotes: '4,517',
+  imdbID: 'tt0126871',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+
+Movie :love
+year :
+http://omdbapi.com/?t=love &y=
+error: null
+statusCode: 200
+{"Title":"Love","Year":"2015","Rated":"NOT RATED","Released":"30 Oct 2015","Runtime":"135 min","Genre":"Drama, Romance","Director":"Gaspar Noé","Writer":"Gaspar Noé","Actors":"Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox","Plot":"Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.","Language":"English, French","Country":"France, Belgium","Awards":"1 win & 1 nomination.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNDUwODk5NF5BMl5BanBnXkFtZTgwNzA0MDQ2NTE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.0/10"},{"Source":"Rotten Tomatoes","Value":"42%"},{"Source":"Metacritic","Value":"51/100"}],"Metascore":"51","imdbRating":"6.0","imdbVotes":"23,570","imdbID":"tt3774694","Type":"movie","DVD":"15 Mar 2016","BoxOffice":"$176,061.00","Production":"Alchemy","Website":"N/A","Response":"True"}
+{ Title: 'Love',
+  Year: '2015',
+  Rated: 'NOT RATED',
+  Released: '30 Oct 2015',
+  Runtime: '135 min',
+  Genre: 'Drama, Romance',
+  Director: 'Gaspar Noé',
+  Writer: 'Gaspar Noé',
+  Actors: 'Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox',
+  Plot: 'Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.',
+  Language: 'English, French',
+  Country: 'France, Belgium',
+  Awards: '1 win & 1 nomination.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNDUwODk5NF5BMl5BanBnXkFtZTgwNzA0MDQ2NTE@._V1_SX300.jpg',
+  Ratings:
+   [ { Source: 'Internet Movie Database', Value: '6.0/10' },
+     { Source: 'Rotten Tomatoes', Value: '42%' },
+     { Source: 'Metacritic', Value: '51/100' } ],
+  Metascore: '51',
+  imdbRating: '6.0',
+  imdbVotes: '23,570',
+  imdbID: 'tt3774694',
+  Type: 'movie',
+  DVD: '15 Mar 2016',
+  BoxOffice: '$176,061.00',
+  Production: 'Alchemy',
+  Website: 'N/A',
+  Response: 'True' }
+"C:\Program Files\Google\WebStorm 2016.1.3\bin\runnerw.exe" "C:\Program Files\nodejs\node.exe" index.js
+server started
+Movie :devta
+year :
+http://omdbapi.com/?t=devta&y=
+error: null
+statusCode: 200
+{"Title":"Devta","Year":"1998","Rated":"N/A","Released":"01 Jan 1998","Runtime":"N/A","Genre":"Action","Director":"Jagdish A. Sharma","Writer":"N/A","Actors":"Arun Bakshi, Mithun Chakraborty, Mushtaq Khan, Kiran Kumar","Plot":"N/A","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"3.9/10"}],"Metascore":"N/A","imdbRating":"3.9","imdbVotes":"11","imdbID":"tt2008493","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Devta',
+  Year: '1998',
+  Rated: 'N/A',
+  Released: '01 Jan 1998',
+  Runtime: 'N/A',
+  Genre: 'Action',
+  Director: 'Jagdish A. Sharma',
+  Writer: 'N/A',
+  Actors: 'Arun Bakshi, Mithun Chakraborty, Mushtaq Khan, Kiran Kumar',
+  Plot: 'N/A',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '3.9/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '3.9',
+  imdbVotes: '11',
+  imdbID: 'tt2008493',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :love sex or dhokha
+year :
+http://omdbapi.com/?t=love sex or dhokha&y=
+error: null
+statusCode: 200
+{"Response":"False","Error":"Movie not found!"}
+{ Response: 'False', Error: 'Movie not found!' }
+Movie :love
+year :
+http://omdbapi.com/?t=love &y=
+error: null
+statusCode: 200
+{"Title":"Love","Year":"2015","Rated":"NOT RATED","Released":"30 Oct 2015","Runtime":"135 min","Genre":"Drama, Romance","Director":"Gaspar Noé","Writer":"Gaspar Noé","Actors":"Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox","Plot":"Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.","Language":"English, French","Country":"France, Belgium","Awards":"1 win & 1 nomination.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNDUwODk5NF5BMl5BanBnXkFtZTgwNzA0MDQ2NTE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.0/10"},{"Source":"Rotten Tomatoes","Value":"42%"},{"Source":"Metacritic","Value":"51/100"}],"Metascore":"51","imdbRating":"6.0","imdbVotes":"23,570","imdbID":"tt3774694","Type":"movie","DVD":"15 Mar 2016","BoxOffice":"$176,061.00","Production":"Alchemy","Website":"N/A","Response":"True"}
+{ Title: 'Love',
+  Year: '2015',
+  Rated: 'NOT RATED',
+  Released: '30 Oct 2015',
+  Runtime: '135 min',
+  Genre: 'Drama, Romance',
+  Director: 'Gaspar Noé',
+  Writer: 'Gaspar Noé',
+  Actors: 'Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox',
+  Plot: 'Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.',
+  Language: 'English, French',
+  Country: 'France, Belgium',
+  Awards: '1 win & 1 nomination.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNDUwODk5NF5BMl5BanBnXkFtZTgwNzA0MDQ2NTE@._V1_SX300.jpg',
+  Ratings:
+   [ { Source: 'Internet Movie Database', Value: '6.0/10' },
+     { Source: 'Rotten Tomatoes', Value: '42%' },
+     { Source: 'Metacritic', Value: '51/100' } ],
+  Metascore: '51',
+  imdbRating: '6.0',
+  imdbVotes: '23,570',
+  imdbID: 'tt3774694',
+  Type: 'movie',
+  DVD: '15 Mar 2016',
+  BoxOffice: '$176,061.00',
+  Production: 'Alchemy',
+  Website: 'N/A',
+  Response: 'True' }
+"Title":"Star Wars: Episode IV - A New Hope","Year":"1977","Rated":"PG","Released":"25 May 1977","Runtime":"121 min","Genre":"Action, Adventure, Fantasy","Director":"George Lucas","Writer":"George Lucas","Actors":"Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing","Plot":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.","Language":"English","Country":"USA","Awards":"Won 6 Oscars. Another 50 wins & 28 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.7/10"},{"Source":"Rotten Tomatoes","Value":"93%"},{"Source":"Metacritic","Value":"92/100"}],"Metascore":"92","imdbRating":"8.7","imdbVotes":"970,649","imdbID":"tt0076759","Type":"movie","DVD":"21 Sep 2004","BoxOffice":"N/A","Production":"20th Century Fox","Website":"http://www.starwars.com/episode-iv/","Response":"True"}
+{ Title: 'Star Wars: Episode IV - A New Hope',
+  Year: '1977',
+  Rated: 'PG',
+  Released: '25 May 1977',
+  Runtime: '121 min',
+  Genre: 'Action, Adventure, Fantasy',
+  Director: 'George Lucas',
+  Writer: 'George Lucas',
+  Actors: 'Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing',
+  Plot: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire\'s world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.',
+  Language: 'English',
+  Country: 'USA',
+  Awards: 'Won 6 Oscars. Another 50 wins & 28 nominations.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
+  Ratings:
+   [ { Source: 'Internet Movie Database', Value: '8.7/10' },
+     { Source: 'Rotten Tomatoes', Value: '93%' },
+     { Source: 'Metacritic', Value: '92/100' } ],
+  Metascore: '92',
+  imdbRating: '8.7',
+  imdbVotes: '970,649',
+  imdbID: 'tt0076759',
+  Type: 'movie',
+  DVD: '21 Sep 2004',
+  BoxOffice: 'N/A',
+  Production: '20th Century Fox',
+  Website: 'http://www.starwars.com/episode-iv/',
+  Response: 'True' }
+Movie :desh
+year :
+http://omdbapi.com/?t=desh&y=
+error: null
+statusCode: 200
+{"Title":"Desh","Year":"2002","Rated":"N/A","Released":"N/A","Runtime":"130 min","Genre":"Drama","Director":"Raja Sen","Writer":"Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)","Actors":"Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee","Plot":"N/A","Language":"Bengali, Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"5.3/10"}],"Metascore":"N/A","imdbRating":"5.3","imdbVotes":"43","imdbID":"tt0368683","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Desh',
+  Year: '2002',
+  Rated: 'N/A',
+  Released: 'N/A',
+  Runtime: '130 min',
+  Genre: 'Drama',
+  Director: 'Raja Sen',
+  Writer: 'Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)',
+  Actors: 'Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee',
+  Plot: 'N/A',
+  Language: 'Bengali, Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '5.3/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '5.3',
+  imdbVotes: '43',
+  imdbID: 'tt0368683',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+error: null
+statusCode: 200
+{"Title":"Desh","Year":"2002","Rated":"N/A","Released":"N/A","Runtime":"130 min","Genre":"Drama","Director":"Raja Sen","Writer":"Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)","Actors":"Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee","Plot":"N/A","Language":"Bengali, Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"5.3/10"}],"Metascore":"N/A","imdbRating":"5.3","imdbVotes":"43","imdbID":"tt0368683","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Desh',
+  Year: '2002',
+  Rated: 'N/A',
+  Released: 'N/A',
+  Runtime: '130 min',
+  Genre: 'Drama',
+  Director: 'Raja Sen',
+  Writer: 'Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)',
+  Actors: 'Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee',
+  Plot: 'N/A',
+  Language: 'Bengali, Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '5.3/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '5.3',
+  imdbVotes: '43',
+  imdbID: 'tt0368683',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :desh
+year :
+http://omdbapi.com/?t=desh&y=
+Movie :desh
+year :
+http://omdbapi.com/?t=desh&y=
+error: null
+statusCode: 200
+{"Title":"Desh","Year":"2002","Rated":"N/A","Released":"N/A","Runtime":"130 min","Genre":"Drama","Director":"Raja Sen","Writer":"Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)","Actors":"Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee","Plot":"N/A","Language":"Bengali, Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"5.3/10"}],"Metascore":"N/A","imdbRating":"5.3","imdbVotes":"43","imdbID":"tt0368683","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Desh',
+  Year: '2002',
+  Rated: 'N/A',
+  Released: 'N/A',
+  Runtime: '130 min',
+  Genre: 'Drama',
+  Director: 'Raja Sen',
+  Writer: 'Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)',
+  Actors: 'Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee',
+  Plot: 'N/A',
+  Language: 'Bengali, Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '5.3/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '5.3',
+  imdbVotes: '43',
+  imdbID: 'tt0368683',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+error: null
+statusCode: 200
+{"Title":"Desh","Year":"2002","Rated":"N/A","Released":"N/A","Runtime":"130 min","Genre":"Drama","Director":"Raja Sen","Writer":"Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)","Actors":"Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee","Plot":"N/A","Language":"Bengali, Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"5.3/10"}],"Metascore":"N/A","imdbRating":"5.3","imdbVotes":"43","imdbID":"tt0368683","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Desh',
+  Year: '2002',
+  Rated: 'N/A',
+  Released: 'N/A',
+  Runtime: '130 min',
+  Genre: 'Drama',
+  Director: 'Raja Sen',
+  Writer: 'Animesh Rai Chaudhary (assistant screenplay writer), Prafulla Roy (novel), Salil Sarkar (dialogue), Salil Sarkar (screenplay), Raja Sen (screenplay)',
+  Actors: 'Jaya Bhaduri, Sabyasachi Chakraborty, Subhendu Chatterjee, Gyanesh Mukherjee',
+  Plot: 'N/A',
+  Language: 'Bengali, Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '5.3/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '5.3',
+  imdbVotes: '43',
+  imdbID: 'tt0368683',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :veer
+year :
+http://omdbapi.com/?t=veer&y=
+error: null
+statusCode: 200
+{"Title":"Veer","Year":"2010","Rated":"N/A","Released":"22 Jan 2010","Runtime":"169 min","Genre":"Action, Adventure, Drama","Director":"Anil Sharma","Writer":"Shailesh Verma (screenplay), Shaktimaan Talwar (screenplay), Salman Khan (story)","Actors":"Salman Khan, Mithun Chakraborty, Jackie Shroff, Zarine Khan","Plot":"In early twentieth-century British India, the Pindari leader Prithvi Singh narrates his story to a reporter from the London Times - a story of betrayal and deceit at the hands of the ...","Language":"Hindi, Urdu","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ0ODQzOTgtNGJhOS00OWExLWJjNDktYzNmMjQ0NWU4YjYwXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"4.7/10"}],"Metascore":"N/A","imdbRating":"4.7","imdbVotes":"5,731","imdbID":"tt1185412","Type":"movie","DVD":"13 Apr 2010","BoxOffice":"$499,685.00","Production":"Eros Entertainment","Website":"http://www.veermovie.com/","Response":"True"}
+{ Title: 'Veer',
+  Year: '2010',
+  Rated: 'N/A',
+  Released: '22 Jan 2010',
+  Runtime: '169 min',
+  Genre: 'Action, Adventure, Drama',
+  Director: 'Anil Sharma',
+  Writer: 'Shailesh Verma (screenplay), Shaktimaan Talwar (screenplay), Salman Khan (story)',
+  Actors: 'Salman Khan, Mithun Chakraborty, Jackie Shroff, Zarine Khan',
+  Plot: 'In early twentieth-century British India, the Pindari leader Prithvi Singh narrates his story to a reporter from the London Times - a story of betrayal and deceit at the hands of the ...',
+  Language: 'Hindi, Urdu',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ0ODQzOTgtNGJhOS00OWExLWJjNDktYzNmMjQ0NWU4YjYwXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '4.7/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '4.7',
+  imdbVotes: '5,731',
+  imdbID: 'tt1185412',
+  Type: 'movie',
+  DVD: '13 Apr 2010',
+  BoxOffice: '$499,685.00',
+  Production: 'Eros Entertainment',
+  Website: 'http://www.veermovie.com/',
+  Response: 'True' }
+  server started
+Movie :mahabharat
+year :
+http://omdbapi.com/?t=mahabharat&y=
+error: null
+statusCode: 200
+{"Title":"Mahabharat","Year":"1988–1990","Rated":"N/A","Released":"02 Oct 1988","Runtime":"45 min","Genre":"Drama, Romance, War","Director":"N/A","Writer":"N/A","Actors":"Harish Bhimani, Mukesh Khanna, Nitish Bharadwaj, Puneet Issar","Plot":"The epic story of the family feud between the noble Pandava princes and their scheming cousins, the Kaurava kings.","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNDk0NzczNV5BMl5BanBnXkFtZTcwNzE2MjkxMQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"9.4/10"}],"Metascore":"N/A","imdbRating":"9.4","imdbVotes":"3,965","imdbID":"tt0158417","Type":"series","totalSeasons":"1","Response":"True"}
+{ Title: 'Mahabharat',
+  Year: '1988–1990',
+  Rated: 'N/A',
+  Released: '02 Oct 1988',
+  Runtime: '45 min',
+  Genre: 'Drama, Romance, War',
+  Director: 'N/A',
+  Writer: 'N/A',
+  Actors: 'Harish Bhimani, Mukesh Khanna, Nitish Bharadwaj, Puneet Issar',
+  Plot: 'The epic story of the family feud between the noble Pandava princes and their scheming cousins, the Kaurava kings.',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNDk0NzczNV5BMl5BanBnXkFtZTcwNzE2MjkxMQ@@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '9.4/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '9.4',
+  imdbVotes: '3,965',
+  imdbID: 'tt0158417',
+  Type: 'series',
+  totalSeasons: '1',
+  Response: 'True' }
+Movie :jai maa santoshi
+year :
+http://omdbapi.com/?t=jai maa santoshi&y=
+error: null
+statusCode: 200
+{"Response":"False","Error":"Movie not found!"}
+{ Response: 'False', Error: 'Movie not found!' }
+Movie : santoshi
+year :
+http://omdbapi.com/?t= santoshi&y=
+error: null
+statusCode: 200
+{"Title":"Jai Santoshi Maa","Year":"1975","Rated":"N/A","Released":"15 Aug 1975","Runtime":"145 min","Genre":"Adventure, Drama, Family","Director":"Vijay Sharma","Writer":"N/A","Actors":"Bharat Bhushan, Ashish Kumar, Kanan Kaushal, Anita Guha","Plot":"Satyavati lives a poor lifestyle along with her widower dad in Sonarpur, and is a devotee of Devi Maa Santoshi, (the daughter of Bhagwan Shri Ganesh, who had created her so that his two ...","Language":"Hindi, Bengali","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"6.8/10"}],"Metascore":"N/A","imdbRating":"6.8","imdbVotes":"77","imdbID":"tt0073191","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Jai Santoshi Maa',
+  Year: '1975',
+  Rated: 'N/A',
+  Released: '15 Aug 1975',
+  Runtime: '145 min',
+  Genre: 'Adventure, Drama, Family',
+  Director: 'Vijay Sharma',
+  Writer: 'N/A',
+  Actors: 'Bharat Bhushan, Ashish Kumar, Kanan Kaushal, Anita Guha',
+  Plot: 'Satyavati lives a poor lifestyle along with her widower dad in Sonarpur, and is a devotee of Devi Maa Santoshi, (the daughter of Bhagwan Shri Ganesh, who had created her so that his two ...',
+  Language: 'Hindi, Bengali',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '6.8/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '6.8',
+  imdbVotes: '77',
+  imdbID: 'tt0073191',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :ghar
+year :
+http://omdbapi.com/?t=ghar&y=
+error: null
+statusCode: 200
+{"Title":"Ghar","Year":"1978","Rated":"N/A","Released":"09 Feb 1978","Runtime":"121 min","Genre":"Drama, Family","Director":"Manik Chatterjee, Gulzar","Writer":"Dinesh Thakur (dialogue), Dinesh Thakur (screenplay), Dinesh Thakur (story)","Actors":"Vinod Mehra, Rekha, Prema Narayan, Asit Kumar Sen","Plot":"Vikas, the son of a successful lawyer defies his father's arrangement for him to be married; and marries his sweetheart Aarti. They enjoy the bliss of marriage, breaking away from the ...","Language":"Hindi","Country":"India","Awards":"1 win & 1 nomination.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzMwODczMTU2MV5BMl5BanBnXkFtZTcwNTU2ODgzMQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.1/10"}],"Metascore":"N/A","imdbRating":"7.1","imdbVotes":"110","imdbID":"tt0077609","Type":"movie","DVD":"04 Oct 2005","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Ghar',
+  Year: '1978',
+  Rated: 'N/A',
+  Released: '09 Feb 1978',
+  Runtime: '121 min',
+  Genre: 'Drama, Family',
+  Director: 'Manik Chatterjee, Gulzar',
+  Writer: 'Dinesh Thakur (dialogue), Dinesh Thakur (screenplay), Dinesh Thakur (story)',
+  Actors: 'Vinod Mehra, Rekha, Prema Narayan, Asit Kumar Sen',
+  Plot: 'Vikas, the son of a successful lawyer defies his father\'s arrangement for him to be married; and marries his sweetheart Aarti. They enjoy the bliss of marriage, breaking away from the ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: '1 win & 1 nomination.',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNzMwODczMTU2MV5BMl5BanBnXkFtZTcwNTU2ODgzMQ@@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '7.1/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '7.1',
+  imdbVotes: '110',
+  imdbID: 'tt0077609',
+  Type: 'movie',
+  DVD: '04 Oct 2005',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :ghar ghar ki kahani
+year :
+http://omdbapi.com/?t=ghar ghar ki kahani&y=
+error: null
+statusCode: 200
+{"Title":"Ghar Ghar Ki Kahani","Year":"1988","Rated":"N/A","Released":"30 Jun 1988","Runtime":"N/A","Genre":"Drama, Family, Comedy","Director":"Kalpataru","Writer":"N/A","Actors":"Govinda, Farha Naaz, Rishi Kapoor, Kader Khan","Plot":"Dhanraj (Kader Khan) is a mild-mannered man who is married to a wealthy, petty-minded, and controlling wife (Shashikala). Dhanraj has two sons and a daughter. The elder son Ram (Rishi ...","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BZjM4NjY1NWYtMmIzZC00N2IzLWE1YzYtYzhiNjM0Y2ZkMzczXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"4.9/10"}],"Metascore":"N/A","imdbRating":"4.9","imdbVotes":"135","imdbID":"tt0231646","Type":"movie","DVD":"01 May 2007","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Ghar Ghar Ki Kahani',
+  Year: '1988',
+  Rated: 'N/A',
+  Released: '30 Jun 1988',
+  Runtime: 'N/A',
+  Genre: 'Drama, Family, Comedy',
+  Director: 'Kalpataru',
+  Writer: 'N/A',
+  Actors: 'Govinda, Farha Naaz, Rishi Kapoor, Kader Khan',
+  Plot: 'Dhanraj (Kader Khan) is a mild-mannered man who is married to a wealthy, petty-minded, and controlling wife (Shashikala). Dhanraj has two sons and a daughter. The elder son Ram (Rishi ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BZjM4NjY1NWYtMmIzZC00N2IzLWE1YzYtYzhiNjM0Y2ZkMzczXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '4.9/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '4.9',
+  imdbVotes: '135',
+  imdbID: 'tt0231646',
+  Type: 'movie',
+  DVD: '01 May 2007',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+Movie :ghar ghar ki kahani
+year :
+http://omdbapi.com/?t=ghar ghar ki kahani&y=
+error: null
+statusCode: 200
+{"Title":"Ghar Ghar Ki Kahani","Year":"1988","Rated":"N/A","Released":"30 Jun 1988","Runtime":"N/A","Genre":"Drama, Family, Comedy","Director":"Kalpataru","Writer":"N/A","Actors":"Govinda, Farha Naaz, Rishi Kapoor, Kader Khan","Plot":"Dhanraj (Kader Khan) is a mild-mannered man who is married to a wealthy, petty-minded, and controlling wife (Shashikala). Dhanraj has two sons and a daughter. The elder son Ram (Rishi ...","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BZjM4NjY1NWYtMmIzZC00N2IzLWE1YzYtYzhiNjM0Y2ZkMzczXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"4.9/10"}],"Metascore":"N/A","imdbRating":"4.9","imdbVotes":"135","imdbID":"tt0231646","Type":"movie","DVD":"01 May 2007","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+{ Title: 'Ghar Ghar Ki Kahani',
+  Year: '1988',
+  Rated: 'N/A',
+  Released: '30 Jun 1988',
+  Runtime: 'N/A',
+  Genre: 'Drama, Family, Comedy',
+  Director: 'Kalpataru',
+  Writer: 'N/A',
+  Actors: 'Govinda, Farha Naaz, Rishi Kapoor, Kader Khan',
+  Plot: 'Dhanraj (Kader Khan) is a mild-mannered man who is married to a wealthy, petty-minded, and controlling wife (Shashikala). Dhanraj has two sons and a daughter. The elder son Ram (Rishi ...',
+  Language: 'Hindi',
+  Country: 'India',
+  Awards: 'N/A',
+  Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BZjM4NjY1NWYtMmIzZC00N2IzLWE1YzYtYzhiNjM0Y2ZkMzczXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '4.9/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '4.9',
+  imdbVotes: '135',
+  imdbID: 'tt0231646',
+  Type: 'movie',
+  DVD: '01 May 2007',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+
+
+  Movie :pyar
+  year :
+  http://omdbapi.com/?t=pyar&y=
+  error: null
+  statusCode: 200
+  {"Title":"Maine Pyar Kiya","Year":"1989","Rated":"N/A","Released":"29 Dec 1989","Runtime":"192 min","Genre":"Drama, Family, Musical","Director":"Sooraj R. Barjatya","Writer":"S.M. Ahale (story), Sooraj R. Barjatya (dialogue), Sooraj R. Barjatya (screenplay)","Actors":"Salman Khan, Bhagyashree, Alok Nath, Rajeev Verma","Plot":"Karan (Alok Nath) lives in a small house with his only daughter, Suman (Bhagyashree). He decides to travel overseas in Dubai, in the Persian Gulf, so that he can accumulate enough wealth to...","Language":"Hindi","Country":"India","Awards":"4 wins & 2 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NTg4MDIwN15BMl5BanBnXkFtZTgwMTY2ODk1MDE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.4/10"}],"Metascore":"N/A","imdbRating":"7.4","imdbVotes":"7,400","imdbID":"tt0100095","Type":"movie","DVD":"18 May 1999","BoxOffice":"N/A","Production":"Rajshri Media","Website":"N/A","Response":"True"}
+  { Title: 'Maine Pyar Kiya',
+    Year: '1989',
+    Rated: 'N/A',
+    Released: '29 Dec 1989',
+    Runtime: '192 min',
+    Genre: 'Drama, Family, Musical',
+    Director: 'Sooraj R. Barjatya',
+    Writer: 'S.M. Ahale (story), Sooraj R. Barjatya (dialogue), Sooraj R. Barjatya (screenplay)',
+    Actors: 'Salman Khan, Bhagyashree, Alok Nath, Rajeev Verma',
+    Plot: 'Karan (Alok Nath) lives in a small house with his only daughter, Suman (Bhagyashree). He decides to travel overseas in Dubai, in the Persian Gulf, so that he can accumulate enough wealth to...',
+    Language: 'Hindi',
+    Country: 'India',
+    Awards: '4 wins & 2 nominations.',
+    Poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NTg4MDIwN15BMl5BanBnXkFtZTgwMTY2ODk1MDE@._V1_SX300.jpg',
+    Ratings: [ { Source: 'Internet Movie Database', Value: '7.4/10' } ],
+    Metascore: 'N/A',
+    imdbRating: '7.4',
+    imdbVotes: '7,400',
+    imdbID: 'tt0100095',
+    Type: 'movie',
+    DVD: '18 May 1999',
+    BoxOffice: 'N/A',
+    Production: 'Rajshri Media',
+    Website: 'N/A',
+    Response: 'True' }
+    Movie :mera desh
+    year :
+    http://omdbapi.com/?t=mera desh&y=
+    error: null
+    statusCode: 200
+    {"Title":"Mera Desh","Year":"1998","Rated":"N/A","Released":"01 Jan 1998","Runtime":"N/A","Genre":"Action","Director":"N/A","Writer":"N/A","Actors":"Arjun, Monica Bedi, Revathy, Silk Smitha","Plot":"N/A","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[],"Metascore":"N/A","imdbRating":"N/A","imdbVotes":"N/A","imdbID":"tt2959106","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
+    { Title: 'Mera Desh',
+      Year: '1998',
+      Rated: 'N/A',
+      Released: '01 Jan 1998',
+      Runtime: 'N/A',
+      Genre: 'Action',
+      Director: 'N/A',
+      Writer: 'N/A',
+      Actors: 'Arjun, Monica Bedi, Revathy, Silk Smitha',
+      Plot: 'N/A',
+      Language: 'Hindi',
+      Country: 'India',
+      Awards: 'N/A',
+      Poster: 'N/A',
+      Ratings: [],
+      Metascore: 'N/A',
+      imdbRating: 'N/A',
+      imdbVotes: 'N/A',
+      imdbID: 'tt2959106',
+      Type: 'movie',
+      DVD: 'N/A',
+      BoxOffice: 'N/A',
+      Production: 'N/A',
+      Website: 'N/A',
+      Response: 'True' }
+
+
+  //deployment log
+> Node.js app detected
+-----> Creating runtime environment
+
+       NPM_CONFIG_LOGLEVEL=error
+       NPM_CONFIG_PRODUCTION=true
+       NODE_VERBOSE=false
+       NODE_ENV=production
+       NODE_MODULES_CACHE=true
+-----> Installing binaries
+       engines.node (package.json):  unspecified
+       engines.npm (package.json):   unspecified (use default)
+
+       Resolving node version 6.x via semver.io...
+       Downloading and installing node 6.10.3...
+       Using default npm version: 3.10.10
+-----> Restoring cache
+       Skipping cache restore (new runtime signature)
+-----> Building dependencies
+       Installing node modules (package.json)
+       moviefinder@1.0.0 /tmp/build_60a89ffc36e631958415df5000c528b1
+       +-- async@2.4.0
+       ¦ +-- lodash@4.17.4
+       +-- body-parser@1.17.1
+       ¦ +-- bytes@2.4.0
+       ¦ +-- content-type@1.0.2
+       ¦ +-- debug@2.6.1
+       ¦ +-- depd@1.1.0
+       ¦ +-- http-errors@1.6.1
+       ¦ ¦ +-- inherits@2.0.3
+       ¦ ¦ +-- setprototypeof@1.0.3
+       ¦ ¦ +-- statuses@1.3.1
+       ¦ +-- iconv-lite@0.4.15
+       ¦ +-- on-finished@2.3.0
+       ¦ ¦ +-- ee-first@1.1.1
+       ¦ +-- qs@6.4.0
+       ¦ +-- raw-body@2.2.0
+       ¦ ¦ +-- unpipe@1.0.0
+       ¦ +-- type-is@1.6.15
+       ¦   +-- media-typer@0.3.0
+       ¦   +-- mime-types@2.1.15
+       ¦     +-- mime-db@1.27.0
+       +-- cookie-parser@1.4.3
+       ¦ +-- cookie@0.3.1
+       ¦ +-- cookie-signature@1.0.6
+       +-- debug@2.6.6
+       ¦ +-- ms@0.7.3
+       +-- ejs@2.5.6
+       +-- firebase@3.9.0
+       ¦ +-- base64url@2.0.0
+       ¦ +-- buffer-equal-constant-time@1.0.1
+       ¦ +-- dom-storage@2.0.2
+       ¦ +-- ecdsa-sig-formatter@1.0.9
+       ¦ +-- faye-websocket@0.9.3
+       ¦ +-- hoek@2.16.3
+       ¦ +-- isemail@1.2.0
+       ¦ +-- joi@6.10.1
+       ¦ +-- jsonwebtoken@7.4.0
+       ¦ +-- jwa@1.1.5
+       ¦ +-- jws@3.1.4
+       ¦ +-- lodash.once@4.1.1
+       ¦ +-- moment@2.18.1
+       ¦ +-- ms@0.7.3
+       ¦ +-- promise-polyfill@6.0.2
+       ¦ +-- safe-buffer@5.0.1
+       ¦ +-- topo@1.1.0
+       ¦ +-- websocket-driver@0.6.5
+       ¦ +-- websocket-extensions@0.1.1
+       ¦ +-- xmlhttprequest@1.8.0
+       ¦ +-- xtend@4.0.1
+       +-- mongodb@2.2.26
+       ¦ +-- es6-promise@3.2.1
+       ¦ +-- mongodb-core@2.1.10
+       ¦ ¦ +-- require_optional@1.0.0
+       ¦ ¦   +-- resolve-from@2.0.0
+       ¦ ¦   +-- semver@5.3.0
+       ¦ +-- readable-stream@2.2.7
+       ¦   +-- buffer-shims@1.0.0
+       ¦   +-- core-util-is@1.0.2
+       ¦   +-- isarray@1.0.0
+       ¦   +-- process-nextick-args@1.0.7
+       ¦   +-- string_decoder@1.0.0
+       ¦   +-- util-deprecate@1.0.2
+       +-- mongoose@4.9.7
+       ¦ +-- async@2.1.4
+       ¦ +-- bson@1.0.4
+       ¦ +-- hooks-fixed@2.0.0
+       ¦ +-- kareem@1.4.1
+       ¦ +-- mpath@0.2.1
+       ¦ +-- mpromise@0.5.5
+       ¦ +-- mquery@2.3.0
+       ¦ ¦ +-- bluebird@2.10.2
+       ¦ ¦ +-- debug@2.2.0
+       ¦ ¦ ¦ +-- ms@0.7.1
+       ¦ ¦ +-- sliced@0.0.5
+       ¦ +-- ms@0.7.2
+       ¦ +-- muri@1.2.1
+       ¦ +-- regexp-clone@0.0.1
+       ¦ +-- sliced@1.0.1
+       +-- node-async@0.0.1
+       +-- coffee-script@1.12.5
+       +-- narrow@0.0.2
+
+-----> Caching build
+       Clearing previous node cache
+       Saving 2 cacheDirectories (default):
+       - node_modules
+       - bower_components (nothing to cache)
+-----> Build succeeded!
+-----> Discovering process types
+       Procfile declares types -> web
+-----> Compressing...
+       Done: 20.3M
+-----> Launching...
+       Released v3
+       https://glacial-atoll-76789.herokuapp.com/ deployed to Heroku
+
+
+
+ will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/lib/node6/promise.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/lib/node7/async.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/lib/node7/error.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/lib/node7/promise.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/.tonic_example.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/dist/ajv.bundle.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/dist/ajv.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/dist/nodent.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/dist/regenerator.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/ajv.d.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/ajv.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/async.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/cache.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/_rules.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/equal.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/formats.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/resolve.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/rules.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/schema_obj.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/ucs2length.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/util.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/validation_error.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/_limit.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/_limitItems.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/_limitLength.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/_limitProperties.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/allOf.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/anyOf.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/coerce.def.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/custom.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/defaults.def.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/definitions.def.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/dependencies.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/enum.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/errors.def.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/format.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/items.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/missing.def.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/multipleOf.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/not.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/oneOf.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/pattern.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/properties.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/ref.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/required.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/uniqueItems.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/v5/_formatLimit.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/v5/constant.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/v5/patternRequired.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/v5/switch.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dot/validate.jst.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/_formatLimit.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/_limit.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/_limitItems.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/_limitLength.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/_limitProperties.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/allOf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/anyOf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/constant.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/custom.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/dependencies.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/enum.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/format.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/items.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/multipleOf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/not.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/oneOf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/pattern.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/patternRequired.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/properties.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/ref.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/required.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/switch.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/uniqueItems.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/dotjs/validate.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/keyword.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/refs/json-schema-draft-04.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/refs/json-schema-v5.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/lib/v5.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/co/History.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/co/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/co/Readme.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/co/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/co/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/example/key_cmp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/example/nested.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/example/str.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/example/value_cmp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/README.markdown.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/lib/parse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/lib/stringify.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/test/parse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/node_modules/jsonify/test/stringify.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/readme.markdown.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/test/cmp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/test/nested.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/test/replacer.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/test/space.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/test/str.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/json-stable-stringify/test/to-json.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/scripts/.eslintrc.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/scripts/bundle.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/scripts/compile-dots.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/scripts/info.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/scripts/prepare-tests.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/ajv/scripts/travis-gh-pages.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/afterRequest.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/beforeRequest.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/browser.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/cache.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/content.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/cookie.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/creator.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/entry.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/har.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/header.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/log.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/page.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/pageTimings.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/postData.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/query.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/request.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/response.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/lib/timings.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/node_modules/har-schema/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/src/async.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/src/error.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/har-validator/src/promise.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/CONTRIBUTING.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/boom/test/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/cryptiles/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/cryptiles/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/cryptiles/test/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/CONTRIBUTING.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/Makefile.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/examples/offset.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/examples/time.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/node_modules/sntp/test/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/hawk/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/.dir-locals.el.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/CHANGES.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/http_signing.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/lib/parser.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/lib/signer.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/lib/utils.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/lib/verify.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-conv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-sign.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-verify.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/assert-plus/AUTHORS.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/assert-plus/CHANGES.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/assert-plus/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/assert-plus/assert.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/CHANGES.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/lib/jsprim.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/AUTHORS.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/CHANGES.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/assert.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/.gitmodules.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/Makefile.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/Makefile.deps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/Makefile.targ.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/examples/simple.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/jsl.node.conf.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/lib/extsprintf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/Makefile.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/Makefile.targ.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/examples/levels-verror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/examples/levels-werror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/examples/varargs.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/examples/verror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/examples/werror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/jsl.node.conf.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/lib/verror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/tests/tst.inherit.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/tests/tst.verror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/tests/tst.werror.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/jsprim/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/bin/sshpk-conv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/bin/sshpk-sign.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/bin/sshpk-verify.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/algs.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/certificate.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/dhe.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/ed-compat.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/errors.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/fingerprint.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/auto.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/openssh-cert.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/pem.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/pkcs1.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/pkcs8.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/rfc4253.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/ssh-private.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/ssh.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/x509-pem.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/formats/x509.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/identity.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/key.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/private-key.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/signature.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/ssh-buffer.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/utils.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/man/man1/sshpk-conv.1.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/man/man1/sshpk-sign.1.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/man/man1/sshpk-verify.1.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/lib/ber/errors.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/lib/ber/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/lib/ber/reader.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/lib/ber/types.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/lib/ber/writer.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/tst/ber/reader.test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/tst/ber/writer.test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/assert-plus/AUTHORS.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/assert-plus/CHANGES.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/assert-plus/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/assert-plus/assert.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/assert-plus/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/bcrypt-pbkdf/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/bcrypt-pbkdf/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/bcrypt-pbkdf/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/CHANGES.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/LICENSE.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/etc/dashdash.bash_completion.in.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/lib/dashdash.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/lib/LICENSE-jsbn.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/lib/ec.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/lib/sec.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/AUTHORS.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/almond.0.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/almond.1.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/jsdoc.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/lib/core.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/lib/curve255.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/lib/dh.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/lib/eddsa.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/lib/utils.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/example.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/example.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/AUTHORS.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/CHANGELOG.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/nacl-fast.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/nacl-fast.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/nacl.d.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/nacl.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/node_modules/sshpk/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/http-signature/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/is-typedarray/LICENSE.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/is-typedarray/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/is-typedarray/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/is-typedarray/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/is-typedarray/test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/.jshintrc.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/LICENSE.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/isstream.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/isstream/test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/CHANGELOG.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/Makefile.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/stringify.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/test/mocha.opts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/json-stringify-safe/test/stringify_test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/HISTORY.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/node_modules/mime-db/HISTORY.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/node_modules/mime-db/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/node_modules/mime-db/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/node_modules/mime-db/db.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/node_modules/mime-db/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/node_modules/mime-db/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/mime-types/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/oauth-sign/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/oauth-sign/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/oauth-sign/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/oauth-sign/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/.tm_properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/Makefile.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/lib/performance-now.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/license.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/src/performance-now.coffee.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/test/mocha.opts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/performance-now/test/performance-now.coffee.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/.eslintignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/.eslintrc.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/.jscs.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/CHANGELOG.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/dist/qs.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/lib/formats.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/lib/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/lib/parse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/lib/stringify.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/lib/utils.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/test/.eslintrc.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/test/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/test/parse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/test/stringify.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/qs/test/utils.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/browser.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/safe-buffer/test.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/LICENSE.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/example.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/stringstream/stringstream.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/lib/cookie.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/lib/memstore.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/lib/pathMatch.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/lib/permuteDomain.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/lib/pubsuffix.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/lib/store.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/node_modules/punycode/LICENSE-MIT.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/node_modules/punycode/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/node_modules/punycode/punycode.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tough-cookie/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tunnel-agent/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tunnel-agent/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tunnel-agent/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/tunnel-agent/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/.npmignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/.travis.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/AUTHORS.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/HISTORY.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/LICENSE.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/bin/uuid.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/index.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/lib/bytesToUuid.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/lib/rng-browser.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/lib/rng.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Node_modules/request/node_modules/uuid/test/mocha.opts.
+The file will have its original line endings in your working directory.
+ create mode 100644 Node_modules/request/node_modules/hawk/node_modules/sntp/package.json
+ create mode 100644 Node_modules/request/node_modules/hawk/node_modules/sntp/test/index.js
+ create mode 100644 Node_modules/request/node_modules/hawk/package.json
+ create mode 100644 Node_modules/request/node_modules/hawk/test/browser.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/client.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/crypto.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/index.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/readme.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/server.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/uri.js
+ create mode 100644 Node_modules/request/node_modules/hawk/test/utils.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/.dir-locals.el
+ create mode 100644 Node_modules/request/node_modules/http-signature/.npmignore
+ create mode 100644 Node_modules/request/node_modules/http-signature/CHANGES.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/LICENSE
+ create mode 100644 Node_modules/request/node_modules/http-signature/README.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/http_signing.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/lib/index.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/lib/parser.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/lib/signer.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/lib/utils.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/lib/verify.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-conv
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-conv.cmd
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-sign
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-sign.cmd
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-verify
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/.bin/sshpk-verify.cmd
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/assert-plus/AUTHORS
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/assert-plus/CHANGES.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/assert-plus/README.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/assert-plus/assert.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/CHANGES.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/LICENSE
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/README.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/lib/jsprim.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/AUTHORS
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/CHANGES.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/README.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/assert.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/package.json
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/.gitmodules
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/LICENSE
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/Makefile
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/Makefile.deps
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/Makefile.targ
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/README.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/examples/simple.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/jsl.node.conf
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/lib/extsprintf.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/package.json
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/README.md
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-00/hyper-schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-00/json-ref
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-00/links
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-00/schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-01/hyper-schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-01/json-ref
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-01/links
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-01/schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-02/hyper-schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-02/json-ref
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-02/links
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-02/schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/examples/address
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/examples/calendar
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/examples/card
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/examples/geo
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/examples/interfaces
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/hyper-schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/json-ref
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/links
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-03/schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-04/hyper-schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-04/links
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-04/schema
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-zyp-json-schema-03.xml
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-zyp-json-schema-04.xml
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/lib/links.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/lib/validate.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/package.json
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/test/tests.js
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/.gitmodules
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/.npmignore
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/LICENSE
+ create mode 100644 Node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/Makefile
+remote: -----> Launching...
+remote:        Released v7
+remote:        https://aqueous-lowlands-27449.herokuapp.com/ deployed to Heroku
+remote:
+remote: Verifying deploy... done.
+To https://git.heroku.com/aqueous-lowlands-27449.git
+   7a2c19e..860e413  master -> master
+
+C:\Users\samsung\WebstormProjects\MovieFinder>
+
